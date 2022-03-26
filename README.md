@@ -2,9 +2,8 @@
 - 👀 I’m interested in php/laravel programming
 - 🌱 I’m currently learning nodejs and flutter
 - 💞️ I’m looking to collaborate
-- 📫 How to reach me
-Email: mahmoud.m.abdelmalek@gmail.com
-- Portfolio: https://www.lembo.tech
+- 📫 How to reach me Email: mahmoud.m.abdelmalek@gmail.com
+- 👤 Portfolio: https://www.lembo.tech
 
 
 <!---
