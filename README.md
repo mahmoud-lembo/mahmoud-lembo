@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate
 - 📫 How to reach me
 Email: mahmoud.m.abdelmalek@gmail.com
-Portfolio: https://www.lembo.tech
+- Portfolio: https://www.lembo.tech
 
 
 <!---
